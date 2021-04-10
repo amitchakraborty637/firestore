@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706938820345",
+    "project_id": "kotlin-f46be",
+    "storage_bucket": "kotlin-f46be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706938820345:android:d7d4f7f126f7d0c0f6f428",
+        "android_client_info": {
+          "package_name": "com.example.firestrore_data_insert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706938820345-ossj8brd9k130dkbip1sc5tudbtaikfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFxIy45DYbxAjMKirf6_UTyFr9mTLw9UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706938820345-ossj8brd9k130dkbip1sc5tudbtaikfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
